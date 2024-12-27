@@ -1,4 +1,4 @@
-baseURL: "https://annalhq.github.io/annenso/"
+baseURL: "https://annalhq.github.io/"
 languageCode: en-us
 title: annenso
 theme: "PaperMod"
@@ -10,7 +10,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-mainsections: ["posts"]
+mainsections: ["blog"]
 
 minify:
   disableXML: true
@@ -93,9 +93,9 @@ params:
 
 menu:
   main:
-    - identifier: archive
-      name: archive
-      url: /archive/
+    - identifier: archives
+      name: archives
+      url: /archives/
       weight: 10
     - identifier: tags
       name: tags
@@ -107,7 +107,7 @@ menu:
       weight: 30
     - identifier: search
       url: /search/
-      weight: 40 
+      weight: 40
 
 markup:
   goldmark:
