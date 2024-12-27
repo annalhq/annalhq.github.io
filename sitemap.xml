@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://annalhq.github.io/annenso/</loc>
+    <loc>https://annalhq.github.io/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://annalhq.github.io/annenso/posts/enso/</loc>
+    <loc>https://annalhq.github.io/blog/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://annalhq.github.io/annenso/posts/</loc>
+    <loc>https://annalhq.github.io/blog/enso/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://annalhq.github.io/annenso/posts/math/</loc>
+    <loc>https://annalhq.github.io/blog/math/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://annalhq.github.io/annenso/archives/</loc>
+    <loc>https://annalhq.github.io/archives/</loc>
   </url><url>
-    <loc>https://annalhq.github.io/annenso/categories/</loc>
+    <loc>https://annalhq.github.io/categories/</loc>
   </url><url>
-    <loc>https://annalhq.github.io/annenso/search/</loc>
+    <loc>https://annalhq.github.io/search/</loc>
   </url><url>
-    <loc>https://annalhq.github.io/annenso/tags/</loc>
+    <loc>https://annalhq.github.io/tags/</loc>
   </url>
 </urlset>
